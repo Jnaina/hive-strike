@@ -1,0 +1,11 @@
+# build output and signed apps
+build/
+build-dev/
+dist/
+logs/
+*.xcuserdata
+xcuserdata/
+DerivedData/
+# python / macOS noise
+__pycache__/
+.DS_Store
